@@ -1,0 +1,2 @@
+1. Create Large dataset wtih all vars of interest before factor testing
+2. Include conferences and possibly divsions or each team possible intercept adj based on streight of conference 
